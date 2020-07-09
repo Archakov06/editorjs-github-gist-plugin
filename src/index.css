@@ -1,0 +1,15 @@
+/* the main container of the entire block */
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 16px;
+}
+
+/* github logo 'img' tag */
+.github-logo{
+    height: 60px;
+    width: 60px;
+    margin: 20px 0;
+}
