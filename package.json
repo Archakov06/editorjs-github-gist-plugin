@@ -1,6 +1,6 @@
 {
-  "name": "editor.js-github-gist-plugin",
-  "version": "1.0.0",
+  "name": "editorjs-github-gist-plugin",
+  "version": "1.0.2",
   "description": "Editor.js plugin for adding Github Gists.",
   "main": "dist/main.js",
   "scripts": {

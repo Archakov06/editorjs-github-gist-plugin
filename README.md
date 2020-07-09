@@ -2,12 +2,11 @@
 
 # Github Gist Plugin for Editor.js
 
-A plugin to add Github Gists to [Editor.js](https://editorjs.io).  
-Demo: [https://editor.js-github-gist-plugin.github.io](https://editor.js-github-gist-plugin.github.io)
+A plugin to add Github Gists to [Editor.js](https://editorjs.io).
 
 ## Screenshot
 
-![Github Gist Plugin](https://i.ibb.co/pyPLWWT/github-gist-plugin.png)
+![Github Gist Plugin](https://img.imageupload.net/2020/07/09/github-gist-plugin.png)
 
 ## Features
 
@@ -76,7 +75,7 @@ Example:
     "data": {
         "url": "https://gist.github.com/AdeilsonESilva/7ddb4c0f156f20d2642d0414777cff85.js",
         "caption": "Get items in array.",
-        "height": "450"
+        "height": 450
     }
 }
 ```
