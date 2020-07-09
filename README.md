@@ -7,7 +7,7 @@ Demo: [https://editor.js-github-gist-plugin.github.io](https://editor.js-github-
 
 ## Screenshot
 
-![Github Gist Plugin](https://i.ibb.co/pyPLWWT/github-gist-plugin.png)
+![Github Gist Plugin](https://img.imageupload.net/2020/07/09/github-gist-plugin.png)
 
 ## Features
 
