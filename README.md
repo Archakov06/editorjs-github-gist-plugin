@@ -2,8 +2,7 @@
 
 # Github Gist Plugin for Editor.js
 
-A plugin to add Github Gists to [Editor.js](https://editorjs.io).  
-Demo: [https://editor.js-github-gist-plugin.github.io](https://editor.js-github-gist-plugin.github.io)
+A plugin to add Github Gists to [Editor.js](https://editorjs.io).
 
 ## Screenshot
 
