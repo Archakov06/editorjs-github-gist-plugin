@@ -75,7 +75,7 @@ Example:
     "data": {
         "url": "https://gist.github.com/AdeilsonESilva/7ddb4c0f156f20d2642d0414777cff85.js",
         "caption": "Get items in array.",
-        "height": "450"
+        "height": 450
     }
 }
 ```
