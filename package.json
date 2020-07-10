@@ -1,13 +1,21 @@
 {
   "name": "editorjs-github-gist-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Editor.js plugin for adding Github Gists.",
   "main": "dist/main.js",
   "scripts": {
     "build": "webpack",
     "test": "eslint --init"
   },
-  "author": "",
+  "author": "ranemihir",
+  "keywords": [
+    "editorjs",
+    "@editorjs",
+    "github",
+    "gist",
+    "javascript",
+    "browser"
+  ],
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
