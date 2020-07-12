@@ -73,6 +73,7 @@ export default class Gist {
       heightInput.style = 'margin: 12px 0 20px'
       heightInput.type = 'number'
       heightInput.min = '100'
+      heightInput.value = 100
 
       /**
        * Creates a button which adds the gist to the wrapper and gives a preview.

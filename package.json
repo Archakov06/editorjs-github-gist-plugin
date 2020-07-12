@@ -16,6 +16,10 @@
     "javascript",
     "browser"
   ],
+  "repository": {
+    "type": "git",
+    "url": "editorjs-github-gist-plugin"
+  },
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
