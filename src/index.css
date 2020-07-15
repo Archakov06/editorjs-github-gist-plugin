@@ -2,9 +2,9 @@
 .wrapper{
     display: flex;
     flex-direction: column;
-    justify-content: stretch;
-    align-items: stretch;
-    align-content: stretch;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
     margin: 0 16px;
 }
 
@@ -13,4 +13,16 @@
     height: 60px;
     width: 60px;
     margin: 20px 0;
+}
+
+.error-wrapper{
+    padding: 12px;
+    border-radius: 6px;
+    font-family: "Helvetica", sans-serif;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #A50203;
+    text-align: center;
+    align-self: center;
+    width: 96%;
 }

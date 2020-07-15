@@ -4,6 +4,11 @@
 
 A plugin to add Github Gists to [Editor.js](https://editorjs.io).
 
+### Import Note 
+Only paste the URL in `<script>` tag not the entire `<script>` tag.  
+
+For example, In `<script src="https://gist.github.com/username/gist_id.js"></script>`, only paste the URL inside the <b>src</b> attribute i.e. `https://gist.github.com/username/gist_id.js`.
+
 ## Screenshot
 
 ![Github Gist Plugin](https://img.imageupload.net/2020/07/09/github-gist-plugin.png)
@@ -14,6 +19,7 @@ A plugin to add Github Gists to [Editor.js](https://editorjs.io).
 - Add an optional Caption explaining the Gist.
 - Specify the height of the added Gist.
 - A preview of the uploaded Gist will be presented.
+- Error will be thrown on invalid URL input or invalid Gist ID.
 
 ## Installation
 
@@ -101,7 +107,7 @@ iframe.frameBorder = 0;
 
 iframe.addEventListener('load', function () {
     /**
-     * Set the height of the inline frame equal to the height of the Gist.
+     * Sets the height of the inline frame equal to the height of the Gist.
      */
     this.style.height = this.contentWindow.document.body.scrollHeight + 16 + 'px';
 
